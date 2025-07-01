@@ -40,13 +40,21 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=frktunc&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=frktunc&theme=radical" width="45%" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frktunc&theme=radical" width="50%" />
+</div>
 
 ---
+### ✍️ Blog Posts on Medium
 
+- 🧾 [Budget Breeze: Your Simple Budget Tracking Companion](https://medium.com/@tuncfarukserhat/budget-breeze-c8bf317b0839)  
+  A mobile app built to make budget tracking effortless and intuitive.
+
+- 🛠️ [MCP Sunucunuz İçin En Doğru Teknoloji Hangisi?](https://medium.com/@tuncfarukserhat/mcp-sunucunuz-i%CC%87%C3%A7in-en-do%C4%9Fru-teknoloji-hangisi-67cef5d42bc4)  
+  A comparison of backend technologies for Minecraft server control panels.
+
+---
 ### 📫 How to Reach Me
 
 - 💌 Email: tuncfarukserhat@gmail.com  
