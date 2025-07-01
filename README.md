@@ -3,28 +3,27 @@
     position: relative;
     width: 100%;
     height: 300px;
-    background-image: url('https://img.freepik.com/premium-photo/professional-software-developer-coding-program-engineering-prompt-aig42_31965-540656.jpg?semt=ais_hybrid&w=740'); /* Görsel yolunu güncellemeyi unutma */
+    background-image: url('https://img.freepik.com/premium-photo/professional-software-developer-coding-program-engineering-prompt-aig42_31965-540656.jpg?semt=ais_hybrid&w=740'); 
     background-size: cover;
     background-position: center;
-    border-radius: 12px; /* Köşeleri yumuşatmak için */
-    overflow: hidden; /* Köşeleri yumuşatırken taşmaları engeller */
-    display: flex; /* Dikey ve yatayda mükemmel ortalama için */
+    border-radius: 12px;
+    overflow: hidden; 
+    display: flex; 
     align-items: center;
     justify-content: center;
-    color: white; /* Metin rengini beyaz yaptık */
+    color: white;
     text-align: center;
   }
 
-  /* Görselin üzerine karanlık ve şık bir katman ekliyoruz */
   .hero::before {
     content: "";
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)); /* Üstten alta koyulaşan gradyan */
-    z-index: 1; /* Metnin arkasında kalması için */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)); 
+    z-index: 1; 
   }
 
-  /* Metni katmanın üzerine alıyoruz */
+ 
   .hero-text {
     position: relative;
     z-index: 2; /* Katmanın önünde olması için */
