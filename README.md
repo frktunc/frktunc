@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Faruk Serhat Tunç</h1>
 
+<h2 align="center">
+  🔊 How to Pronounce My Name —
+  <a href="https://translate.google.com/?sl=tr&tl=en&text=Faruk%20Serhat%20Tunç&op=translate" target="_blank">
+    ▶️ Listen on Google Translate
+  </a>
+</h2>
+
+
+
 
 <p align="center">
   <a href="https://linkedin.com/in/faruk-serhat-tunç-78b44a246" target="_blank">
