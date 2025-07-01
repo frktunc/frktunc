@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Faruk Serhat Tunç</h1>
+<h1 align="center">Hi 👋, I'm Faruk</h1>
 
 <h2 align="center">
-  🔊 How to Pronounce My Name —
-  <a href="https://translate.google.com/?sl=tr&tl=en&text=Faruk%20Serhat%20Tunç&op=translate" target="_blank">
-    ▶️ Listen on Google Translate
+  🔊 How to Pronounce <strong>Faruk</strong> —
+  <a href="https://forvo.com/word/faruk/#tr" target="_blank">
+    🔈 Listen on Forvo
   </a>
 </h2>
+
+
 
 
 
