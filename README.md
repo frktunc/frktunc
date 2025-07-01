@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faruk Serhat Tunç</h1>
-<h3 align="center">🚘 Autonomous Systems • 📱 Mobile Development • 🧠 Computer Vision</h3>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/faruk-serhat-tunç-78b44a246" target="_blank">
