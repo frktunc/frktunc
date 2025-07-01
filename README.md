@@ -1,43 +1,52 @@
-<style>
-  .hero {
-    position: relative;
-    width: 100%;
-    height: 300px;
-    background-image: url('https://img.freepik.com/premium-photo/professional-software-developer-coding-program-engineering-prompt-aig42_31965-540656.jpg?semt=ais_hybrid&w=740'); 
-    background-size: cover;
-    background-position: center;
-    border-radius: 12px;
-    overflow: hidden; 
-    display: flex; 
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-align: center;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hero Test</title>
+  <style>
+    .hero {
+      position: relative;
+      width: 100%;
+      height: 300px;
+      background-image: url('https://img.freepik.com/premium-photo/professional-software-developer-coding-program-engineering-prompt-aig42_31965-540656.jpg?semt=ais_hybrid&w=740');
+      background-size: cover;
+      background-position: center;
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-align: center;
+      margin-bottom: 20px;
+    }
 
-  .hero::before {
-    content: "";
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)); 
-    z-index: 1; 
-  }
+    .hero::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
+      z-index: 1;
+    }
 
- 
-  .hero-text {
-    position: relative;
-    z-index: 2; /* Katmanın önünde olması için */
-    font-size: 2.5em; /* Fontu biraz büyüttük */
-    font-weight: bold; /* Yazıyı daha belirgin hale getirdik */
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7); /* Metne gölge ekleyerek okunabilirliği artırdık */
-  }
-</style>
-
-<div class="hero">
-  <div class="hero-text">
-    Welcome, Hi 👋 I'm Faruk
+    .hero-text {
+      position: relative;
+      z-index: 2;
+      font-size: 2.5em;
+      font-weight: bold;
+      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <div class="hero-text">
+      Welcome, Hi 👋 I'm Faruk
+    </div>
   </div>
-</div>
+</body>
+</html>
+
 
 <h2 align="center">
   🔊 How to Pronounce <strong>Faruk</strong> —
