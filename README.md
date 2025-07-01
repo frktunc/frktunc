@@ -2,12 +2,16 @@
   <img src="https://img.freepik.com/premium-photo/professional-software-developer-coding-program-engineering-prompt-aig42_31965-540656.jpg?semt=ais_hybrid&w=740" alt="Faruk Serhat Tunç - Welcome Banner"/>
 </p>
 
+
+
 <h2 align="center">
-  🔊 How to Pronounce <strong>Faruk</strong> —
+  Welcome, I’m Faruk<br>
+  🔊 How to Pronounce <strong>Faruk</strong> — 
   <a href="https://forvo.com/word/faruk/#tr" target="_blank">
     🔈 Listen on Forvo
   </a>
 </h2>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/faruk-serhat-tunç-78b44a246" target="_blank">
@@ -18,7 +22,7 @@
   </a>
 </p>
 
----
+
 
 ### 💡 About Me
 
