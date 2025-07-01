@@ -5,9 +5,6 @@
   <a href="https://linkedin.com/in/faruk-serhat-tunç-78b44a246" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/frktunc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" />
-  </a>
   <a href="mailto:tuncfarukserhat@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational" />
   </a>
