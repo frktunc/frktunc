@@ -17,11 +17,10 @@
 
 ### 💡 About Me
 
-- 👨‍🎓 4th-year Computer Engineering student passionate about software and innovation.
-- 🚗 Team lead of an **autonomous vehicle project** that became a national finalist in a robotics competition.
-- 📱 Experienced in developing and maintaining **mobile applications** using React Native and Flutter.
-- 🎯 Focused on **computer vision**, especially in the field of **image stabilization** and motion filtering for embedded systems.
-- 🧩 Proficient in modern development tools and environments: Linux, Git, Docker, Postman, and more.
+- 👨‍🎓 Computer Engineering graduate with a strong focus on continuous learning and development in software technologies.
+- 📱 Worked on projects involving mobile development, backend systems, computer vision, and autonomous systems.
+- 🤝 Actively applied teamwork, leadership, and problem-solving skills throughout various project phases.
+- 🎯 Aiming to contribute to innovative and impactful software solutions that create real value for society..
 
 ---
 
@@ -39,43 +38,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 🛰 Autonomous Vehicle Software (Finalist Project)
-An autonomous driving system for competition-grade robotics, featuring:
-- Real-time telemetry dashboard
-- Embedded sensor communication
-- GPS path planning, stop detection, and camera stream processing  
-`React Native · Node.js · Socket.IO · MongoDB · OpenCV`
-
-#### 📷 Image Stabilization for Embedded Gimbals
-Designed and implemented a digital image stabilization pipeline to minimize motion blur caused by mechanical vibration.
-- Computer vision-based post-processing
-- Applied to defense-grade camera systems  
-`Python · OpenCV · Linux`
-
-#### 🔮 Mobile App – 50k+ Downloads
-Contributed to an entertainment app published on both stores. Worked on:
-- Flutter UI development
-- Tarot reading & feature updates  
-`Flutter · Dart · Firebase`
-
-#### 🎬 TV Maze Clone
-React Native app mimicking Netflix UI, built for learning component-based architecture.  
-`React Native · API Integration · UI Design`
-
----
-
-### 🏆 Highlights
-
-- 🎓 Final-year student at Namık Kemal University (Computer Engineering)
-- 🧑‍🏫 Team lead & software mentor in Teknofest finalist autonomous vehicle team
-- 💡 Co-founder of university tech community to promote innovation & collaboration
-- 🛠 Hands-on with real-world project demos, sensor integrations, and UI/UX in production
 
 ---
 
@@ -92,7 +54,6 @@ React Native app mimicking Netflix UI, built for learning component-based archit
 
 - 💌 Email: tuncfarukserhat@gmail.com  
 - 🌐 LinkedIn: [linkedin.com/in/faruk-serhat-tunç-78b44a246](https://www.linkedin.com/in/faruk-serhat-tunç-78b44a246/)
-- 📁 GitHub: [github.com/frktunc](https://github.com/frktunc)
 
 ---
 
