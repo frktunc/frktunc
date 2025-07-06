@@ -65,11 +65,5 @@
   A comparison of backend technologies for Minecraft server control panels.
 
 ---
-### 📫 How to Reach Me
 
-- 💌 Email: tuncfarukserhat@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/faruk-serhat-tunç-78b44a246](https://www.linkedin.com/in/faruk-serhat-tunç-78b44a246/)
-
----
-
-> “Solving real-world problems through code, teamwork, and continuous learning.”
+> “You need to try the impossible to discover the limits of what's possible.”
