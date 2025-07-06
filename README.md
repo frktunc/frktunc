@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/professional-software-developer-coding-program-engineering-prompt-aig42_31965-540656.jpg?semt=ais_hybrid&w=740" alt="Faruk Serhat Tunç - Welcome Banner"/>
-</p>
+
 
 
 
